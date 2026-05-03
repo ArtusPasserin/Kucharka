@@ -1,2 +1,2 @@
-# Kucha-ka
+# Kucharka
 School project
